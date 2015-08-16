@@ -30,4 +30,4 @@ _{Tell me about the languages you used to create this app. Assume that I know yo
 ## Contributors
 
 
-[MIT LIcense 2015]
+[MIT License 2015]
