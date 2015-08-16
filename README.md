@@ -29,7 +29,7 @@ _{Tell me about the languages you used to create this app. Assume that I know yo
 
 ## Contributors
 
-_{List contributers if any}
+_{List contributors if any}
 
 
 ## Copyright (c) 2015 Copyright Holder All Rights Reserved.
