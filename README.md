@@ -30,4 +30,4 @@ _{Tell me about the languages you used to create this app. Assume that I know yo
 ## Contributors
 
 
-[MIT License 2015]
+[MIT License 2015] https://github.com/nataliyamiller/basic-template-for-java-projects/blob/master/LICENSE.md
