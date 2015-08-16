@@ -29,5 +29,8 @@ _{Tell me about the languages you used to create this app. Assume that I know yo
 
 ## Contributors
 
+_{List contributers if any}
 
+
+## Copyright (c) 2015 Copyright Holder All Rights Reserved.
 [MIT License 2015] https://github.com/nataliyamiller/basic-template-for-java-projects/blob/master/LICENSE.md
