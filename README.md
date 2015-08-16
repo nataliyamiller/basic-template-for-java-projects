@@ -20,7 +20,7 @@ _{Leave nothing to chance! You want it to be easy for potential employers and co
 
 ## Tests
 
--{There are both unit and integration tests associated with this application. The test files can be found under /src/test/java in the ``AppIntegrationTest.java`` and ``AppUnitTest.java`` files. To run the test suite, you'll need to type ``gradle test`` in your command line.}_
+-{There are both unit and integration tests associated with this application. The test files can be found under /src/test/java in the ``AppTest.java`` and ``AppFluentTest.java`` files. To run the test suite, you'll need to type ``gradle test`` in your command line.}_
 
 
 ## Technologies Used
