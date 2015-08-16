@@ -21,7 +21,7 @@ public class AppFluentTest extends FluentTest {
   @Test
   public void rootTest() {
       goTo("http://localhost:4567/");
-      assertThat(pageSource()).contains("Whatever heading");
+      assertThat(pageSource()).contains("Words that should appear on home page");
   }
 
   @Test
@@ -29,6 +29,6 @@ public class AppFluentTest extends FluentTest {
     goTo("http://localhost:4567/");
     fill("#userinput").with("Hello");
     submit(".btn");
-    assertThat(pageSource()).contains("result is");
+    assertThat(pageSource()).contains("Words that should appear on results page given the input");
   }
 }
